@@ -1,0 +1,2 @@
+id,privKey,solAmountRange,txDelayRange,sellDelayRange
+1,<PRIV_KEY>,0.001-0.005,1000-10000,1000-10000
